@@ -1,0 +1,14 @@
+C:\XamarinApps\HoradoLanche\HoradoLanche\bin\Debug\netstandard2.0\HoradoLanche.deps.json
+C:\XamarinApps\HoradoLanche\HoradoLanche\bin\Debug\netstandard2.0\HoradoLanche.dll
+C:\XamarinApps\HoradoLanche\HoradoLanche\bin\Debug\netstandard2.0\ref\HoradoLanche.dll
+C:\XamarinApps\HoradoLanche\HoradoLanche\bin\Debug\netstandard2.0\HoradoLanche.pdb
+C:\XamarinApps\HoradoLanche\HoradoLanche\obj\Debug\netstandard2.0\HoradoLanche.csprojAssemblyReference.cache
+C:\XamarinApps\HoradoLanche\HoradoLanche\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\XamarinApps\HoradoLanche\HoradoLanche\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\XamarinApps\HoradoLanche\HoradoLanche\obj\Debug\netstandard2.0\HoradoLanche.AssemblyInfoInputs.cache
+C:\XamarinApps\HoradoLanche\HoradoLanche\obj\Debug\netstandard2.0\HoradoLanche.AssemblyInfo.cs
+C:\XamarinApps\HoradoLanche\HoradoLanche\obj\Debug\netstandard2.0\HoradoLanche.csproj.CoreCompileInputs.cache
+C:\XamarinApps\HoradoLanche\HoradoLanche\obj\Debug\netstandard2.0\XamlC.stamp
+C:\XamarinApps\HoradoLanche\HoradoLanche\obj\Debug\netstandard2.0\HoradoLanche.dll
+C:\XamarinApps\HoradoLanche\HoradoLanche\obj\Debug\netstandard2.0\ref\HoradoLanche.dll
+C:\XamarinApps\HoradoLanche\HoradoLanche\obj\Debug\netstandard2.0\HoradoLanche.pdb
